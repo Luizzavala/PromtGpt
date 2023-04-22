@@ -3,7 +3,7 @@
 # User
 actúa como un experto nutricionista y créame un plan de alimentación para la semana, ten en mente que sea una dieta baja en carbohidratos de 1800 calorías ten en cuenta que tu población es de Culiacán, paso 1 genera una tabla con la información con las columnas [día, desayuno, comida, cena], paso 2 genera una lista de compras para el plan en formato tabla con las siguientes columnas [producto, cantidad] especifica la cantidad en gramos.
 
-#Gpt
+# Gpt
 
 ¡Claro! Aquí te proporciono un plan de alimentación para la semana de 1800 calorías y baja en carbohidratos, basado en la población de Culiacán.
 
@@ -17,10 +17,10 @@ Paso 2: Lista de compras
 
 ![image](https://user-images.githubusercontent.com/94495979/233799443-1b0e5bb0-c906-4761-8990-583887a91fda.png)
 
-#user 
+# User 
 Continua
 
-#gpt
+# Gpt
 
 ![image](https://user-images.githubusercontent.com/94495979/233799453-10606334-34a3-4914-b880-278949adb06f.png)
 
